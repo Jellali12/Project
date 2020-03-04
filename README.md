@@ -73,7 +73,7 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 |── WP6
 ````
 
-## Partners links
+## Partner links
 
 
 | [![SUPCOM](images_logo/SUPCOM1.png)](http://www.supcom.mincom.tn/Fr/accueil_46_3)  | [![CERT](images_logo/cert_final.png)](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert) | [![EPT](images_logo/ept.JPEG)](http://www.ept.rnu.tn/) |[![Ooredoo](images_logo/Ooredoo-Logo.png)](https://www.ooredoo.tn/) |[![ENAT](images_logo/inat.jpg)](http://www.inat.tn/fr) |[![EPT](images_logo/ept.JPEG)](https://www.ooredoo.tn/) |
