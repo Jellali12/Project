@@ -58,22 +58,17 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 ## Project Directory Structure
 
 ````
-├── WP1: 
-│   ├── EndN-Node
-│     ├── WP111
-|     ├── WAP112
+├── WP1
+|
+│   ├── End-Node
+|
 │   ├── Packet Forward Gateway
-│     ├── WP121
-|     ├── WP122
-│   ├── Fiware Plateform
-│       ├── 
-|           |──
-|           |──
-|           |──
-|       ├── 
-|           |──
-|           |──
-|           |──
+│     
+│   ├── LoRaWAN
+│        
+|   ├── Fiware platform
+|    
+|           
 ├── WP2
 ├── WP4
 ├── WP5 
@@ -82,9 +77,10 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 
 ## Parteners links
 
-[<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3)   [<img src="images_logo/inat.jpg" width="100" height="100" />](http://www.inat.tn/fr)
-[<img src="images_logo/cert_logo.png" width="100" height="100" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert)    [<img src="images_logo/ept.JPEG" width="100" height="100" />](http://www.ept.rnu.tn/)  
-[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) 
-[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](http://www.supcom.mincom.tn/Fr/accueil_46_3)   
+  
  
  
+
+ SUPCOM | CERT | INAT |Ooredoo| EPT| IPNET
+- | - | - |- |- | -
+[<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3) | [<img src="images_logo/cert_logo.png" width="100" height="100" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert)| [<img src="images_logo/inat.jpg" width="100" height="100" />](http://www.inat.tn/fr) |[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) |[<img src="images_logo/ept.JPEG" width="100" height="100" />](http://www.ept.rnu.tn/)|[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/)
