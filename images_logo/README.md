@@ -1,8 +1,4 @@
-# Project
-Project for IoT based smart irrigation
 
-
-<img src="images_logo/Image_Monag.png" width="600" height="150" />
 
 
 ## <p align="center"> Smart Water Management: Development of a Real-Time System for Water Resources Management: Study of Mornag Basin </p>
@@ -82,9 +78,9 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 
 ## Parteners links
 
-[<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3)   [<img src="images_logo/inat.jpg" width="150" height="150" />](http://www.inat.tn/fr)
-[<img src="images_logo/cert_logo1.png" width="200" height="150" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert)    [<img src="images_logo/ept.JPEG" width="150" height="150" />](http://www.ept.rnu.tn/)  
-[<img src="images_logo/Ooredoo-Logo.jpg" width="200" height="200" />](https://www.ooredoo.tn/) 
-[<img src="images_logo/Ooredoo-Logo.jpg" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3)   
+[<img src="supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3)   [<img src="inat.jpg" width="150" height="150" />](http://www.inat.tn/fr)
+[<img src="cert_logo.png" width="150" height="150" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert)    [<img src="ept.JPEG" width="150" height="150" />](http://www.ept.rnu.tn/)   
+
+[<img src="Ooredoo-Logo.jpg" width="200" height="200" />](https://www.ooredoo.tn/)  [![10% center](supcom.png)](http://www.supcom.mincom.tn/Fr/accueil_46_3)   
  
  
