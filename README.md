@@ -12,9 +12,7 @@ Project for IoT based smart irrigation
 
 
 ## Project Identification and Presentation
-The PNRI project is a collaboration between 
 
- 
 |  <ul> **Project staff**  | <ul> **Partners** 
 | :--- | :--- |
 |  <ul> **Leader and coordination**  | <ul> CERT (Centre d’Etudes et de Recherche des Télécommunications)     </ul>   
@@ -59,7 +57,7 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 
 ````
 ├── WP1
-|
+
 │   ├── End-Node
 |
 │   ├── Packet Forward Gateway
@@ -79,8 +77,6 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 
   
  
- 
-
- SUPCOM | CERT | INAT |Ooredoo| EPT| IPNET
-- | - | - |- |- | -
-[<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3) | [<img src="images_logo/cert_logo.png" width="100" height="100" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert)| [<img src="images_logo/inat.jpg" width="100" height="100" />](http://www.inat.tn/fr) |[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) |[<img src="images_logo/ept.JPEG" width="100" height="100" />](http://www.ept.rnu.tn/)|[<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/)
+ <ul> **SUPCOM**  | <ul> **CERT** | <ul> **INAT** | <ul> **Ooredoo** | <ul> **EPT** | <ul> **IPNET** 
+| :--- | :--- |:--- |:--- |:--- |:--- |:--- |
+|  <ul> [<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3) |    <ul>  [<img src="images_logo/cert_logo.png" width="100" height="100" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert) |<ul> [<img src="images_logo/inat.jpg" width="100" height="100" />](http://www.inat.tn/fr) | <ul> [<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) |     <ul> [<img src="images_logo/ept.JPEG" width="100" height="100" />](http://www.ept.rnu.tn/)|    [<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) </ul>
