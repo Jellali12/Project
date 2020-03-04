@@ -75,33 +75,9 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 
 ## Parteners links
 
- |<ul> **SUPCOM**  | <ul> **CERT** | <ul> **INAT** | <ul> **Ooredoo** | <ul> **EPT** | <ul> **IPNET** |
-| :--- | :--- |:--- |:--- |:--- |:--- |:--- |
-|<ul>[<img src="images_logo/supcom.png" width="200" height="200" />](http://www.supcom.mincom.tn/Fr/accueil_46_3) |<ul>  [<img src="images_logo/cert_logo.png" width="100" height="100" />](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert) |<ul> [<img src="images_logo/inat.jpg" width="100" height="100" />](http://www.inat.tn/fr) | <ul> [<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) | <ul> [<img src="images_logo/ept.JPEG" width="100" height="100" />](http://www.ept.rnu.tn/)|    [<img src="images_logo/Ooredoo-Logo.jpg" width="100" height="100" />](https://www.ooredoo.tn/) </ul>|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
-
-
-
-
-
-| [![SUPCOM](images_logo/supcom.png)](http://www.supcom.mincom.tn/Fr/accueil_46_3)  | [![CERT](images_logo/cert_logo.png)](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert) | [![EPT](images_logo/ept.JPEG)](http://www.ept.rnu.tn/) |
-|:---:|:---:|:---:|
+| [![SUPCOM](images_logo/supcom.png)](http://www.supcom.mincom.tn/Fr/accueil_46_3)  | [![CERT](images_logo/cert_logo.png)](https://univ-internationale.com/fr/partenairele-centre-d%E2%80%99etudes-et-de-recherche-des-t%C3%A9l%C3%A9communications-cert) | [![EPT](images_logo/ept.JPEG)](http://www.ept.rnu.tn/) |[![Ooredoo](images_logo/Ooredoo-Logo.jpg)](https://www.ooredoo.tn/) |[![ENAT](images_logo/inat.jpg)](http://www.inat.tn/fr) |[![EPT](images_logo/ept.JPEG)](https://www.ooredoo.tn/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
