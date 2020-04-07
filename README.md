@@ -10,7 +10,7 @@
 <p style='text-align: justify;'>  It is about a Tunisian PNRI (Programme National de Recherche et d’Innovation) project which is a crossing and collaboration which brings together public research partners with industrial partners. This project aims at deploying an IoT smart agriculture application used to predict irrigation water requirements. The aim is to offer irrigation programs according to the needs and available water volumes.
 </p>
 
-
+s
 ## Project Identification and Presentation
 
 |  <ul> **Project staff**  | <ul> **Partners**|
