@@ -1,5 +1,5 @@
 # Project
-Project for IoT based smart irrigation
+
 
 
 <p align="center"><img src="images_logo/Image_Monag.png" width="800" height="200" /> </p>
