@@ -24,7 +24,7 @@ In the following, we will install and congifure the open source LoRaWAN ChirpSta
 
  ## Contents
  
-- [## Software Requirements](#h2-id%22software-requirements-52%22software-requirementsh2)
+- [## Software Requirements](#h2-id%22software-requirements-125%22software-requirementsh2)
   - [Mosquitto Installation](#mosquitto-installation)
   - [LoRa Server Implementation](#lora-server-implementation)
     - [LoRa-Gateway Bridge](#lora-gateway-bridge)
@@ -108,6 +108,10 @@ sudo apt-get update
 
 ### LoRa-Gateway Bridge 
 #### <font color='red'>Installation</font>
+
+
+<span style="color:orange;">Word up</span>
+
 Install LoRa Gateway Bridge as 
 ```ruby
  sudo apt-get install lora-gateway-bridge  
@@ -115,7 +119,6 @@ Install LoRa Gateway Bridge as
   #### <font color='red'>Configuration</font>
 - Modify LoRa Gateway Bridge configuration file
 <font color='pink'> /etc/lora-gateway-bridge/lora-gateway-bridge.toml.</font>
-
 ```ruby
 sudo su 
 cd /etc/lora-gateway-bridge
@@ -197,6 +200,7 @@ After installation, modify the configuration file which is located at
    /usr/bin/loraserver
 </font>
 - Modify the LoRa Network Server configuration file <font color='pink'> /etc/loraserver/loraserver.toml.</font>
+ 
  ```ruby
     sudo su 
     cd /etc/loraserver 
