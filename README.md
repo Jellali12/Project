@@ -10,7 +10,7 @@
 <p style='text-align: justify;'>  It is about a Tunisian PNRI (Programme National de Recherche et d’Innovation) project which is a crossing and collaboration which brings together public research partners with industrial partners. This project aims at deploying an IoT smart agriculture application used to predict irrigation water requirements. The aim is to offer irrigation programs according to the needs and available water volumes.
 </p>
 
-s
+
 ## Project Identification and Presentation
 
 |  <ul> **Project staff**  | <ul> **Partners**|
@@ -54,24 +54,17 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 </p>
 
 ## Project Directory Structure
+  - [Using IoT to manage resource water](IoT-Chain)
+    * [Overview](WP1/Readme.md)
+    *  [IoT physical layer](WP1/Devices)
+    *   [LoRaWAN ](WP1/LORAWAN.md)
+    *    [FIWARE platform](WP1/Fiware)
+  - [Work Package 2](WP2)
+  - [Work Package 3](WP3)
+- [Work Package 4](WP4)
+- [Work Package 5](WP5)
+- [Work Package 6](WP6)
 
-````
-├── WP1
-
-│   ├── End-Node
-|
-│   ├── Packet Forward Gateway
-│     
-│   ├── LoRaWAN
-│        
-|   ├── Fiware platform
-|    
-|           
-├── WP2
-├── WP4
-├── WP5 
-|── WP6
-````
 
 ## Partner links
 
