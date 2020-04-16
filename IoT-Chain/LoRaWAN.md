@@ -24,7 +24,7 @@ In the following, we will install and congifure the open source LoRaWAN ChirpSta
 
  ## Contents
  
-- [## Software Requirements](#h2-id%22software-requirements-45%22software-requirementsh2)
+- [## Software Requirements](#h2-id%22software-requirements-52%22software-requirementsh2)
   - [Mosquitto Installation](#mosquitto-installation)
   - [LoRa Server Implementation](#lora-server-implementation)
     - [LoRa-Gateway Bridge](#lora-gateway-bridge)
@@ -74,7 +74,7 @@ The LoRa Geo Server will not be discussed in this tutorial.
 
 All LoRa Server components and their dependencies will be installed on the same own server as shown in the following graph.
 
-<p align="center"><img src="images/PNRI_loraserver.png" width="600" height="400" /> </p>
+<p align="center"><img src="images/PNRI_loraserver.png" width="600" height="500" /> </p>
 
 ## Software Requirements
 ===========
