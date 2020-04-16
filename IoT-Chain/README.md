@@ -21,7 +21,8 @@ LoRaWAN network topology is considered as star-of-stars and from        the arch
 Here's the global adopted IoT architecture using FIWARE LoRaWAN IoT agent platform to manage LoRA device payloads.
 
 
-![png](images/IoT_Achitecture.png)
+<p align="center"><img src="images/IoT_Achitecture.png" width="600" height="400" /> </p>
+
 
 The diagram above presents the adopted IoT system which is summurised in three blocks. 
 - **Data acquisition and transmission**

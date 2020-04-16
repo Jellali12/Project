@@ -24,15 +24,24 @@ In the following, we will install and congifure the open source LoRaWAN ChirpSta
 
  ## Contents
  
-- [LoRa Server project](#lora-server-project)
-- [Considered LoRa Server achitecture](#considered-lora-server-achitecture)
-- [Software Requirements](#software-requirements)
-- [Mosquitto Installation](#mosquitto-installation)
-- [LoRa Server Implementation](#lora-server-implementation)
-  * [LoRa-Gateway Bridge](#lora-gateway-bridge)
-  * [LoRa Network Server](#2-lora-network-server)
-  * [LoRa Application Server](#lora-application-server)
-- [Connect LoRaWAN Gateway/Node to LoRaServer](#connect-lorawan-gateway-/-node-to-LoRaServer)
+- [## Software Requirements](#h2-id%22software-requirements-9%22software-requirementsh2)
+  - [Mosquitto Installation](#mosquitto-installation)
+  - [LoRa Server Implementation](#lora-server-implementation)
+    - [LoRa-Gateway Bridge](#lora-gateway-bridge)
+      - [<font color='red'>Installation</font>](#font-colorredinstallationfont)
+      - [<font color='red'>Configuration</font>](#font-colorredconfigurationfont)
+      - [<font color='red'>Starting</font>](#font-colorredstartingfont)
+    - [LoRa Network Server](#lora-network-server)
+      - [<font color='red'>Prerequis installation</font>](#font-colorredprerequis-installationfont)
+      - [<font color='red'>Install LoRa Network Server</font>](#font-colorredinstall-lora-network-serverfont)
+      - [<font color='red'>Starting LoRa Network Server</font>](#font-colorredstarting-lora-network-serverfont)
+    - [LoRa Application Server](#lora-application-server)
+      - [<font color='red'>Sotware Requirements</font>](#font-colorredsotware-requirementsfont)
+      - [<font color='red'>Install LoRa Application Server</font>](#font-colorredinstall-lora-application-serverfont)
+      - [<font color='red'>Starting LoRa Application Server</font>](#font-colorredstarting-lora-application-serverfont)
+  - [Connect LoRaWAN Gateway/Node to ChirpStack](#connect-lorawan-gatewaynode-to-chirpstack)
+      - [Connect Gateway to LoRa Server](#connect-gateway-to-lora-server)
+      - [Connect Device Node to LoRa Server](#connect-device-node-to-lora-server)
 
 
 ## LoRa Server project
@@ -64,6 +73,7 @@ The LoRa Geo Server will not be discussed in this tutorial.
 ## Considered LORa Server architecture
 
 All LoRa Server components and their dependencies will be installed on the same own server as shown in the following graph.
+
 
 ![png](images/PNRI_loraserver.png)
 
