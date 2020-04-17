@@ -24,7 +24,7 @@ In the following, we will install and congifure the open source LoRaWAN ChirpSta
 
  ## Contents
  
-- [## Software Requirements](#h2-id%22software-requirements-93%22software-requirementsh2)
+- [## Software Requirements](#h2-id%22software-requirements-7%22software-requirementsh2)
   - [Mosquitto Installation](#mosquitto-installation)
   - [LoRa Server Implementation](#lora-server-implementation)
     - [LoRa-Gateway Bridge](#lora-gateway-bridge)
@@ -337,7 +337,6 @@ systemctl status lora-app-server
 ## Connect LoRaWAN Gateway/Node to ChirpStack
 #### Connect Gateway to LoRa Server
 - Add Gateway profile
-<p align="center"><img src="images/PNRI_loraserver.png" /> </p>
 - Add Gateway
 -  You could check the details of gateway after adding Gateway.
 **Note**: If GPS data is not seen, please check if you install GPS antenna and put gateway at a place with strong signal
@@ -346,25 +345,4 @@ systemctl status lora-app-server
 
 
 
-<p align="center"><img src="LoRa-Server/service-profile.png" width="600" height="300" /> </p>
 
-
-<p align="center"><img src="LoRa-Server/network-server.png" width="600" height="300" /> </p>
-
-<p align="center"><img src="LoRa-Server/gateway-profile.png" width="600" height="300" /> </p>
-
-<p align="center"><img src="LoRa-Server/gateway.png" width="600" height="300" /> </p>
-
-<p align="center"><img src="LoRa-Server/
-device-profile.png" width="600" height="300" /> </p>
-
-
-
-
-
-<p align="center"><img src="LoRa-Server/App-configuration.png" width="600" height="300" /> </p>
-
-
-
-
-<p align="center"><img src="LoRa-Server/App-activation.png" width="600" height="300" /> </p>
