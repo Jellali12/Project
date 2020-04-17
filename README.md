@@ -56,9 +56,9 @@ Government agencies (National Irrigation Administration, Department of Agricultu
 ## Project Directory Structure
   - [Using IoT to manage resource water](IoT-Chain)
     * [Overview](WP1/Readme.md)
-    *  [IoT physical layer](WP1/Devices)
-    *   [LoRaWAN ](WP1/LORAWAN.md)
-    *    [FIWARE platform](WP1/Fiware)
+    *  [IoT physical layer](IoT-Chain/Devices)
+    *   [LoRaWAN ](IoT-Chain/LoRa-Server)
+    *    [FIWARE platform](IoT-Chain/Fiware/FIWARE.md)
   - [Work Package 2](WP2)
   - [Work Package 3](WP3)
 - [Work Package 4](WP4)
