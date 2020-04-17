@@ -24,7 +24,7 @@ In the following, we will install and congifure the open source LoRaWAN ChirpSta
 
  ## Contents
  
-- [## Software Requirements](#h2-id%22software-requirements-3%22software-requirementsh2)
+- [## Software Requirements](#h2-id%22software-requirements-5%22software-requirementsh2)
   - [Mosquitto Installation](#mosquitto-installation)
   - [LoRa Server Implementation](#lora-server-implementation)
     - [LoRa-Gateway Bridge](#lora-gateway-bridge)
