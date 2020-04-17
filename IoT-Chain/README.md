@@ -38,6 +38,6 @@ Installation guides, configuration files and source codes are presented in the f
 
    [End-Nodes  and gateway for IoT physical layer](Devices) 
 
-  [LoRaWAN protocol communication](LORAWAN.md) 
+  [LoRaWAN protocol communication](LoRa-Server/LoRaWAN.md) 
 
-  [FIWARE IoT Agent for LoRaWAN protocol](Fiware)
+  [FIWARE IoT Agent for LoRaWAN protocol](Fiware/FIWARE.md)
